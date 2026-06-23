@@ -2,6 +2,9 @@
 - Updated: 01-01-2026  
 - Atom Music Bot
 
+## 0. Definitions
+For the purposes of this document, "we", "us", "the bot", "Atom Music", or "Atom Music Bot" refers to the Atom Music Discord bot and its related services. References to "the bot" throughout this policy shall be understood to mean Atom Music Bot and its associated services.
+
 ## 1. Acceptance of Terms
 By using Atom Music Bot, you agree to abide by all these Terms of Service. If you disagree with any part of these terms, please stop using the bot immediately. Your continued use means you accept and acknowledge these terms.
 
